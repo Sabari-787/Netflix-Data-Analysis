@@ -1,11 +1,14 @@
 
-# 🍿📺 Netflix Data Analysis using SQL – Project P2 Part 2 🎉🎯
+# 🍿📺 Netflix Data Analysis using SQL – Project  🎉🎯
 
 ![Netflix Banner](https://upload.wikimedia.org/wikipedia/commons/6/69/Netflix_logo.svg)
 
 ## 📖 Project Overview
+
+
 This project demonstrates how to perform advanced SQL-based exploratory data analysis using a real-world Netflix dataset. The goal is to uncover trends, identify content patterns, and gain actionable insights by writing efficient and meaningful SQL queries.
 
+👉 [📂 Dataset Link](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
 ---
 
 ## 🎯 Objectives
